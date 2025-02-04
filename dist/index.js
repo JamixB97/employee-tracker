@@ -22,7 +22,7 @@ async function mainMenu() {
                     'Delete a department',
                     'Delete a role',
                     'Delete an employee',
-                    'View total utilized budget of a department',
+                    'View total budget of a department',
                     'Exit'
                 ],
             }
